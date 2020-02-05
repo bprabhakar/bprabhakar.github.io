@@ -4,7 +4,9 @@
 
 @import "{{ site.theme }}";
 
-$base-font-family: 200 20px/1.5 "Lora",serif !default;
+.body {
+        font: 200 20px/1.5 "Lora",serif !default;
+}
 
 .post img {
         display: block;
