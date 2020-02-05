@@ -1,3 +1,3 @@
-# Personal blog
+# Blog
 
-bprabhakar.github.io
+Source for my personal blog powered by Github Pages and FastAI template.
