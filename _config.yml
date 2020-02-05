@@ -6,7 +6,7 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Bharat Prabhakar
+title: Bharat's blog
 description: A blog to muse about the latest in Artificial Intelligence and Machine Learning.
 github_username: bprabhakar
 
@@ -21,7 +21,7 @@ use_math: true
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
   - jekyll-gist
