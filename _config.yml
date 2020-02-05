@@ -28,6 +28,8 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
 
+show_excerpts: true
+
 titles_from_headings:
   enabled:     true
   strip_title: true
