@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Bharat Prabhakar blog
-description: Simplifying AI jargon
+title: Bharat Prabhakar
+description: A blog to muse about the latest in Artificial Intelligence and Machine Learning.
 github_username: bprabhakar
 
 # Email and twitter are optional:
 email:
-twitter_username:
+twitter_username: aglooka
 
 # Set this to true to get LaTeX math equation support
 use_math: true
