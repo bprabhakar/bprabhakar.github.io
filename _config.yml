@@ -28,7 +28,7 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
 
-show_excerpts: true
+# show_excerpts: true
 
 titles_from_headings:
   enabled:     true
