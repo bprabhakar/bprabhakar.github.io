@@ -28,9 +28,6 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
 
-minima:
-  skin: sunrise
-
 show_excerpts: true
 
 titles_from_headings:
