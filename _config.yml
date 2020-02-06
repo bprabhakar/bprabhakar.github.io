@@ -21,6 +21,9 @@ use_math: true
 google_analytics: UA-157796734-1
 
 # disqus
+url: "https://bprabhakar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+disqus:
+  shortname: bharatprabhakar
 layout: default
 comments: true
 # other options
